@@ -181,13 +181,13 @@ Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Sof
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdi1425&theme=github_dark" alt="GitHub Stats" height="180"/>
+<img src="https://raw.githubusercontent.com/Abdi1425/Abdi1425/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdi1425&theme=github_dark" alt="Top Languages" height="180"/>
+<img src="https://raw.githubusercontent.com/Abdi1425/Abdi1425/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" width="48%" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi1425&theme=github_dark" alt="GitHub Contribution Activity" width="95%"/>
+<img src="https://raw.githubusercontent.com/Abdi1425/Abdi1425/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub Contribution Activity" width="98%" />
 
 </div>
 
