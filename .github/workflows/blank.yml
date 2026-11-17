@@ -17,11 +17,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
+          fetch-depth: 0
           persist-credentials: true
 
-      - name: Generate GitHub Profile Statistics
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Verify Git checkout
+        run: |
+          pwd
+          git rev-parse --show-toplevel
+          git status
+          git branch --show-current
+
+      - name: Generate GitHub Profile Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Abdi1425
+
+      - name: Check generated files
+        if: always()
+        run: |
+          echo "Checking generated statistics files..."
+          ls -la
+          ls -la profile-summary-card-output || true
+          git status || true
