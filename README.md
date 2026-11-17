@@ -5,7 +5,7 @@
 
 ### Computer Science Undergraduate | Software Engineering | Cybersecurity | IT
 
-**BSc Computer Science — Mount Kenya University | Expected Graduation: 2027**
+**BSc Computer Science — Mount Kenya University | Expected Graduation: December 2027**
 
 Backend Development | Application Security | Networking | Secure Software Development
 
@@ -177,13 +177,17 @@ Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Sof
 
 ---
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/VIEW_MY_GITHUB_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdi1425?tab=repositories)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdi1425&theme=github_dark" alt="GitHub Stats" height="180"/>
 
-[![GitHub Contributions](https://img.shields.io/badge/VIEW_MY_CONTRIBUTIONS-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdi1425)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdi1425&theme=github_dark" alt="Top Languages" height="180"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdi1425&theme=github_dark" alt="GitHub Contribution Activity" width="95%"/>
 
 </div>
 
